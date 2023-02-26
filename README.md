@@ -1,1 +1,4 @@
 # aa-document
+
+Weekly/
+Tutorial/
